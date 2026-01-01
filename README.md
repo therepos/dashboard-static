@@ -11,7 +11,7 @@ For learning purposes only.
 ## Structure
 
 ```
-dashboard
+plotly
 ├── github/workflows                
 │   └── deploy.yml             
 └── docs
@@ -27,3 +27,4 @@ dashboard
 ## Resources
 
 - TBA
+
